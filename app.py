@@ -18,7 +18,7 @@ def about():  # put application's code here
 
 
 @app.route('/favorite-course', methods = ['GET', 'POST'])
-def favorite_course():  
+def favorite_course():
     return render_template ('favorite-course.html')
 
 @app.route('/contact', methods=['GET', 'POST'])
