@@ -1,0 +1,21 @@
+h1{
+    color: darkblue;
+}
+
+body{
+    background-color: red;
+    color: darkblue;
+}
+
+.cc{
+    background-color: red;
+}
+
+nav {
+    background-color: darkblue;
+    height: 40px;
+    color: white;
+    width: auto;
+    margin:auto;
+
+}
